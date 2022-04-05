@@ -1,15 +1,12 @@
-name: Jacky Zhao
+name: Samuel Meltzer Thometz
 enableToc: true
 openToc: false
 enableLinkPreview: true
 enableLatex: true
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
 page_title:
-  "🪴 Quartz 3.2"
+  "SMT Journal Repository"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+  - link_name: Master Document
+    link: https://docs.google.com/document/d/1DrWOULrlBXjfqpZs8FUXP09sKuykmAym-0Mx2UnZFoE/edit?usp=sharing
+
