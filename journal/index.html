@@ -1,11 +1,8 @@
 <!doctype html><html lang=en>
 <head>
 <meta charset=utf-8>
-<meta name=description content="Chinese, Japanese, Korean Support 几乎在我们意识到之前，我们已经离开了地面。
-우리가 그것을 알기도 전에 우리는 땅을 떠났습니다.
-私たちがそれを知るほぼ前に、私たちは地面を離れていました。
-Latex Block math works with two dollar signs $$.">
-<title>CJK + Latex Support (测试)</title>
+<meta name=description content>
+<title>Journals</title>
 <meta name=viewport content="width=device-width,initial-scale=1">
 <link rel="shortcut icon" type=image/png href=https://quartz.jzhao.xyz//icon.png>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Source+Sans+Pro:wght@400;600;700&family=Fira+Code:wght@400;700&display=swap" rel=stylesheet>
@@ -15,7 +12,7 @@ Latex Block math works with two dollar signs $$.">
 <script defer src=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js integrity=sha384-z1fJDqw8ZApjGO3/unPWUPsIymfsJmyrDVWC8Tv/a1HeOtGmkwNd/7xUS0Xcnvsx crossorigin=anonymous></script>
 <script defer src=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/auto-render.min.js integrity=sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR crossorigin=anonymous></script>
 <script>document.addEventListener("DOMContentLoaded",function(){renderMathInElement(document.body,{delimiters:[{left:'$$',right:'$$',display:!0},{left:'$',right:'$',display:!1}],throwOnError:!1})})</script>
-<script>const BASE_URL="https://quartz.jzhao.xyz/",fetchData=Promise.all([fetch("https://quartz.jzhao.xyz/indices/linkIndex.03d0265dd1ca84fe383a8ad442b7c660.min.json").then(a=>a.json()).then(a=>({index:a.index,links:a.links})),fetch("https://quartz.jzhao.xyz/indices/contentIndex.926f3b91c39df457deabcec18d84e457.min.json").then(a=>a.json())]).then(([{index:a,links:b},c])=>({index:a,links:b,content:c}))</script>
+<script>const BASE_URL="https://quartz.jzhao.xyz/",fetchData=Promise.all([fetch("https://quartz.jzhao.xyz/indices/linkIndex.55dd14bdefcd88c34050729ed983816a.min.json").then(a=>a.json()).then(a=>({index:a.index,links:a.links})),fetch("https://quartz.jzhao.xyz/indices/contentIndex.5d6a7dddf1067ea0d1ddccbd8018fc40.min.json").then(a=>a.json())]).then(([{index:a,links:b},c])=>({index:a,links:b,content:c}))</script>
 </head>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XYFD95KB4J"></script>
 <script>var doNotTrack=!1;if(!doNotTrack){window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date),gtag('config','G-XYFD95KB4J',{anonymize_ip:!1})}</script>
@@ -42,63 +39,19 @@ Latex Block math works with two dollar signs $$.">
 </div>
 </header>
 <article>
-<h1>CJK + Latex Support (测试)</h1>
+<h1>All Journals</h1>
+<ul class=section-ul><li class=section-li>
+<div class=section>
+<div class=desc>
+<h3><a href=https://quartz.jzhao.xyz/Journal/Untitled/></a></h3>
+<p></p>
+</div>
 <p class=meta>
-Last updated Unknown
+0 minute read. Last updated April 5, 2022
 </p>
-<ul class=tags>
-</ul>
-<h2 id=chinese-japanese-korean-support>Chinese, Japanese, Korean Support</h2>
-<p>几乎在我们意识到之前，我们已经离开了地面。</p>
-<p>우리가 그것을 알기도 전에 우리는 땅을 떠났습니다.</p>
-<p>私たちがそれを知るほぼ前に、私たちは地面を離れていました。</p>
-<h2 id=latex>Latex</h2>
-<p>Block math works with two dollar signs <code>$$...$$</code></p>
-<p>$$f(x) = \int_{-\infty}^\infty
-f\hat(\xi),e^{2 \pi i \xi x}
-,d\xi$$</p>
-<p>Inline math also works with single dollar signs <code>$...$</code>. For example, Euler&rsquo;s identity but inline: $e^{i\pi} = 0$</p>
-<p>Aligned equations work quite well:</p>
-<p>$$
-\begin{aligned}
-a &= b + c \\&= e + f \\\end{aligned}
-$$</p>
-<p>And matrices</p>
-<p>$$
-\begin{bmatrix}
-1 & 2 & 3 \\a & b & c
-\end{bmatrix}
-$$</p>
-<h2 id=rtl>RTL</h2>
-<p>More information on configuring RTL languages like Arabic in the
-<a href=/notes/config rel=noopener class=internal-link data-src=/notes/config>config
-</a> page</p>
+</div>
+</li></ul>
 </article>
-<hr>
-<div class=page-end>
-<div class=backlinks-container>
-<h3>Backlinks</h3>
-<ul class=backlinks>
-<li>
-<a href=/>🪴 Quartz 3.2</a>
-</li>
-<li>
-<a href=/notes/config>Configuration</a>
-</li>
-<li>
-<a href=/notes/troubleshooting>Troubleshooting and FAQ</a>
-</li>
-</ul>
-</div>
-<div>
-<script src=https://cdn.jsdelivr.net/npm/d3@6.7.0/dist/d3.min.js integrity="sha256-+7jaYCp29O1JusNWHaYtgUn6EhuP0VaFuswhNV06MyI=" crossorigin=anonymous></script>
-<h3>Interactive Graph</h3>
-<div id=graph-container></div>
-<style>:root{--g-node:var(--secondary);--g-node-active:var(--primary);--g-node-inactive:var(--visited);--g-link:var(--outlinegray);--g-link-active:#5a7282}</style>
-<script src=https://quartz.jzhao.xyz/js/graph.27e8521c25c27c79dea35f434c486167.js></script>
-<script>drawGraph("https://quartz.jzhao.xyz/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95","https://quartz.jzhao.xyz",[{"/moc":"#4388cc"}],-1,!0,!1,!0)</script>
-</div>
-</div>
 <div id=contact_buttons>
 <footer>
 <p>Made by Jacky Zhao using <a href=https://github.com/jackyzha0/quartz>Quartz</a>, © 2022</p>
@@ -107,8 +60,8 @@ $$</p>
 <li><a href=https://twitter.com/_jzhao>Twitter</a></li><li><a href=https://github.com/jackyzha0>Github</a></li></ul>
 </footer>
 </div>
+</div>
 <script src=https://quartz.jzhao.xyz/js/popover.9d69dffc0f2d029ef30cf63230ccce4c.min.js></script>
 <script>initPopover("https://quartz.jzhao.xyz")</script>
-</div>
 </body>
 </html>
