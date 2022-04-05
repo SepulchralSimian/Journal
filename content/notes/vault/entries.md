@@ -5,11 +5,13 @@ tags:
 ---
 
 ### ___In Chronological Order:___
-o [3.5.22](/3.5.22)
-o [3.8.22](/3.8.22)
-o [3.10.22](/3.10.22)
-o [3.12.22](/3.12.22)
-o [3.14.22](/3.14.22)
-o [3.18.22](/3.18.22)
-o [3.20.22](/3.20.22)
+o [Week 1; 2.28.22](/notes/vault/Week1.md)
+o [Week 2; 3.7.22](/notes/vault/Week2.md)
+o [Week 3; 3.28.22](/notes/vault/Week3.md)
+o [Week 4; 4.4.22](/notes/vault/Week4.md)
+o 
+
+*Disclaimer: The weeks of March 14 & 21 have been omitted on account of Spring Break 2022
+
+
 
