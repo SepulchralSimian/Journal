@@ -1,5 +1,5 @@
 ---
-Title: "Test"
+Title: Test
 ---
 
 ## Entries:
