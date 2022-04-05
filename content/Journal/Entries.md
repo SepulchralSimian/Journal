@@ -1,5 +1,7 @@
-## Entries:
 ---
+Title: "Entries"
+---
+
 ### ___In Chronological Order:___
 o [3.5.22](/3.5.22)
 ______

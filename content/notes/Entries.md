@@ -1,11 +1,9 @@
 ---
-Title: Test
+Title: "Entries"
 ---
 
-## Entries:
----
 ### ___In Chronological Order:___
-o[3.5.22](/3.5.22)
+o [3.5.22](/3.5.22)
 ______
 o[3.8.22](/3.8.22)
 ______
