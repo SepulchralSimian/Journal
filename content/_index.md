@@ -2,8 +2,8 @@
 title: 𝄋 Journal Repository
 ---
 
-![exampleimage](notes/images/music.png)
+![](/content/notes/images/music.png)
 
 ## Table of Contents:
-[Entries](notes/Entries.md)
+[Entries](content/notes/Entries.md)
 
