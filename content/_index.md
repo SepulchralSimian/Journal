@@ -5,4 +5,4 @@ title: Journal Repository
 [Entries](/notes/vault/entries.md)  
 [References](/notes/vault/references.md)
 
-![Music](notes/images/music.png)
+![Music](/content/notes/images/music.png)
