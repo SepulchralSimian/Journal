@@ -13,5 +13,5 @@ o
 
 *Disclaimer:* The weeks of March 14 & 21 have been omitted on account of Spring Break 2022
 
-
+![complexity](notes/images/complexity.png)
 
