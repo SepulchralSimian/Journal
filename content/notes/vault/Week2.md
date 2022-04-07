@@ -4,4 +4,16 @@ tags:
 - Week 2
 ---
 
-Test
+## Objective(s):
+
+
+
+## Findings: 
+
+
+
+## Reported Progress towards Project Completion: 
+
+
+
+## Additional Notes: 
