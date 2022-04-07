@@ -5,5 +5,5 @@ title: Journal Repository
 [Entries](/notes/vault/entries.md)  
 [References](/notes/vault/references.md)
 
-![troll](notes/images/troll.png)
+![music](notes/images/music.png)
 
