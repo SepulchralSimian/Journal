@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "entries.md",
+            "file": "references.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "entries.md",
+                "file": "references.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "e433d3c6da40b436",
   "lastOpenFiles": [
+    "references.md",
+    "faerie.png",
     "entries.md",
     "Week1.md",
+    "notes/images/muse.png.md",
+    "Week2.md",
     "Week4.md",
     "Week3.md",
-    "Week2.md",
-    "references.md",
     "3.14.22.md",
-    "3.18.22.md",
-    "3.20.22.md",
-    "Entries.md"
+    "3.18.22.md"
   ]
 }
