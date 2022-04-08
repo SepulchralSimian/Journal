@@ -8,3 +8,5 @@ title: Journal Repository
 
 ![complexity](notes/images/complexity.png) 
 
+![muse](notes/images/muse.png)
+
