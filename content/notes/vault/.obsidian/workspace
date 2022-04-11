@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "entries.md",
+            "file": "Week1.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "entries.md",
+                "file": "Week1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,11 +89,11 @@
   },
   "active": "e433d3c6da40b436",
   "lastOpenFiles": [
-    "entries.md",
-    "further-readings.md",
-    "maintenance.md",
     "Week1.md",
+    "maintenance.md",
     "references.md",
+    "further-readings.md",
+    "entries.md",
     "Week2.md",
     "Week3.md",
     "Week4.md",
