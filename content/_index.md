@@ -25,7 +25,6 @@ If you would prefer to navigate the contents of this site through an order list 
 
 __*For questions or matters relating to troubleshooting, shoot me an email:*__
 
-[Email Sam](mailto:samuel.meltzer23@calhoun.org)
 
 ![complexity](notes/images/complexity.png) 
 
