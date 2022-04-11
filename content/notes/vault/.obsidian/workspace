@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Week1.md",
+            "file": "maintenance.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week1.md",
+                "file": "maintenance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "e433d3c6da40b436",
   "lastOpenFiles": [
-    "Week1.md",
     "maintenance.md",
-    "references.md",
     "further-readings.md",
-    "entries.md",
-    "Week2.md",
+    "references.md",
+    "Week1.md",
     "Week3.md",
-    "Week4.md",
     "Week5.md",
+    "Week4.md",
+    "Week2.md",
+    "entries.md",
     "notes/vault/Week3.md"
   ]
 }
