@@ -1,11 +1,10 @@
 ---
 title: Jazz and the New Complexity: A Theoretical Union
-
 ---
 
 This site has been created to serve as a repository for all material relevant to my Junior Workshop Project. 
 
-##Paper PDF Download
+###Paper PDF Download
 *To be updated upon completion of draft*
 
 ###Documentation
@@ -17,8 +16,6 @@ This site has been created to serve as a repository for all material relevant to
 ###Content List
 
 If you would prefer to navigate the contents of this site through an order list instead of a graph, please find a provided content list in the following:
-
-[AllNotes](/notes/vault)
 
 ###Misc. & Troubleshooting
 
