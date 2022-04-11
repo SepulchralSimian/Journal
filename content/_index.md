@@ -9,15 +9,15 @@ This site has been created to serve as a repository for all material relevant to
 
 ###Documentation
 
-[|Journal Entries](/notes/vault/entries.md)  
+[|JournalEntries](/notes/vault/entries.md)  
 [|References](/notes/vault/references.md)
-[|Further Readings](/notes/vault/further-readings.md)
+[|FurtherReadings](/notes/vault/further-readings.md)
 
 ###Content List
 
 If you would prefer to navigate the contents of this site through an order list instead of a graph, please find a provided content list in the following:
 
-- [All Notes](/notes/vault)
+[AllNotes](/notes/vault)
 
 ###Misc. & Troubleshooting
 
