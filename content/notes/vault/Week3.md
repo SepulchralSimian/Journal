@@ -4,17 +4,18 @@ tags:
 - Week 3
 ---
 
-### Objective(s)
+##### Objective(s)
 
 
 
-### Findings 
+#### Findings 
 
 
 
-### Reported Progress towards Project Completion
+#### Reported Progress towards Project Completion
 
 
 
-### Additional Notes
+#### Additional Notes
+
 
