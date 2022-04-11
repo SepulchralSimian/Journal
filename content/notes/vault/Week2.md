@@ -1,7 +1,7 @@
 ---
 title: "Week 2"
 tags:
-- Week 2
+- week 2
 ---
 
 ##### Objective(s)

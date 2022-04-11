@@ -1,7 +1,7 @@
 ---
 title: "Week 4"
 tags:
-- Week 4
+- week 4
 ---
 
 ##### Objective(s)

@@ -1,7 +1,7 @@
 ---
 title: "Week 5"
 tags:
-- Week 5
+- week 5
 ---
 
 ##### Objective(s)
