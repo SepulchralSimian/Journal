@@ -1,5 +1,5 @@
 ---
-title: Jazz and the New Complexity: A Theoretical Union
+title: Jazz and the New Complexity; A Theoretical Union
 ---
 
 This site has been created to serve as a repository for all material relevant to my Junior Workshop Project. 
@@ -9,9 +9,9 @@ This site has been created to serve as a repository for all material relevant to
 
 ###Documentation
 
-[|JournalEntries](/notes/vault/entries.md)  
+[|Journal Entries](/notes/vault/entries.md)  
 [|References](/notes/vault/references.md)
-[|FurtherReadings](/notes/vault/further-readings.md)
+[|Further Readings](/notes/vault/further-readings.md)
 
 ###Content List
 
