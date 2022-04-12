@@ -1,8 +1,3 @@
 ---
-title: 🪴 Quartz 3.2
+title: “Jazz and the New Complexity: A Theoretical Union”
 ---
-
-
-
-
-
