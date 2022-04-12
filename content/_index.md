@@ -23,8 +23,8 @@ If you would prefer to navigate the contents of this site through an order list 
 
 - [Scheduled Maintenance](/notes/vault/maintenance.md)
 
-__*For questions or matters relating to troubleshooting, shoot me an email:*__
+> __*For questions or matters relating to troubleshooting, shoot me an email:*__ [Email Sam](mailto:sammeltzerthometz@gmail.com)
 
-> [Email Sam](mailto:sammeltzerthometz@gmail.com)
+
 
 ![complexity](notes/images/complexity.png) 
