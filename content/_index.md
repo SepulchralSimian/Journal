@@ -15,7 +15,7 @@ This site has been created to serve as a repository for all material relevant to
 
 ### Content List
 
-If you would prefer to navigate the contents of this site through an order list instead of a graph, please find a provided content list in the following:
+If you would prefer to navigate the contents of this site through an ordered list as opposed to a graph, please find a provided content list below:
 
 - [All Notes](/notes)
 
