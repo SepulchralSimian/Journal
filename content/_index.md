@@ -1,3 +1,4 @@
 ---
-title: “Jazz and the New Complexity: A Theoretical Union”
+title: Jazz and the New Complexity; A Theoretical Union
 ---
+
