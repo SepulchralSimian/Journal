@@ -23,7 +23,7 @@ If you would prefer to navigate the contents of this site through an ordered lis
 
 - [Scheduled Maintenance](/notes/vault/maintenance.md)
 
-> __*For questions or matters relating to troubleshooting, shoot me an email:*__ [Email Sam](mailto:sammeltzerthometz@gmail.com)
+> __*For questions or matters relating to troubleshooting, shoot me an email:*__ [Email Sam](https://mail.google.com/mail/?view=cm&to=sammeltzerthometz@gmail.com)
 
 
 
