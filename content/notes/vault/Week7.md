@@ -7,10 +7,15 @@ tags:
 ### Objective(s): 
 
 
-## Findings 
+## Research:
+Reference Collection
+________________
 
 
-### Reported Progress towards Project Completion
+
+### Reported Progress towards Project Completion:
 
 
-#### Additional Notes
+#### Additional Notes:
+
+*See [references](references.md) for an up to date list of consulted and cited sources*
