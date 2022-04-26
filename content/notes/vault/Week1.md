@@ -4,11 +4,12 @@ tags:
 - week 1
 ---
 
-#### Objective(s)
+##### Objective(s): 
+Reference collection; refinement of scope of project; 
 
 
 
-### Findings 
+### Findings
 
 
 
