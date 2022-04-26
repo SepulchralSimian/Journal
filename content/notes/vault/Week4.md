@@ -8,7 +8,7 @@ tags:
 - Reference collection and reading
 - Formatting for expository document
 - Written abstract for expository document
-- Read Brian Ferneyhough (
+- Read Brian Ferneyhough ()
 
 ## Research:
 Reference Collection:

@@ -12,14 +12,18 @@ tags:
 ## Research:
 Reference Collection:
 
-###### 1. **Serialism**:
-
-###### 2. **TETs ()**:
 
 
-![](Pasted%20image%2020220425221605.png)
 
-![](Screen%20Shot%202022-04-25%20at%2010.22.34%20PM.png)
+
+#### 1. **Serialism**:
+
+#### 2. **TETs ()**:
+
+
+![bruh](Pasted%20image%2020220425221605.png)
+
+![bruh1](Screen%20Shot%202022-04-25%20at%2010.22.34%20PM.png)
 
 ### Reported Progress towards Project Completion:
 

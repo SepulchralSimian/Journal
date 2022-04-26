@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Week4.md",
+            "file": "Week2.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week4.md",
+                "file": "Week2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "e433d3c6da40b436",
   "lastOpenFiles": [
-    "Week4.md",
-    "Week3.md",
     "Week2.md",
-    "Week1.md",
-    "Week7.md",
-    "Week6.md",
-    "Week5.md",
+    "Week3.md",
+    "Week4.md",
+    "maintenance.md",
+    "further-readings.md",
     "Pasted image 20220425221605.png",
+    "references.md",
     "Screen Shot 2022-04-25 at 10.22.34 PM.png",
-    "references.md"
+    "entries.md",
+    "Week1.md"
   ]
 }
