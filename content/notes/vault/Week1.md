@@ -4,17 +4,17 @@ tags:
 - week 1
 ---
 
-##### Objective(s): 
+### Objective(s): 
 Reference collection; refinement of scope of project; 
 
 
 
-### Findings
+## Findings
 
 
 
-### Reported Progress towards Project Completion
+## Reported Progress towards Project Completion
 
 
 
-### Additional Notess
+## Additional Notess
