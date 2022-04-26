@@ -4,17 +4,17 @@ tags:
 - week 2
 ---
 
-### Objective(s): 
-Reference collection and reading==**;**== Exploration of serialism (specifically twelve-tone technique)==**;**== Applications of tuning systems of equal temperament (i.e. microtonality)==**;**== 
+### Objectives: 
+- Reference collection and reading 
+- Exploration of serialism (specifically twelve-tone technique)
+- Applications of tuning systems of equal temperament (i.e. microtonality)
 
 ## Research:
-Reference Collection
-________________
+Reference Collection:
 
+###### 1. **Serialism**:
 
-1. **Serialism**:
-
-2. **TETs ()**:
+###### 2. **TETs ()**:
 
 
 ![](Pasted%20image%2020220425221605.png)

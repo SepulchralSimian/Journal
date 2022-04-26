@@ -4,12 +4,13 @@ tags:
 - week 5
 ---
 
-### Objective(s): 
-Reference collection and reading==**;**== Read Brian Ferneyhough ()==**;**==
+### Objectives: 
+- Reference collection and reading
+- Read Brian Ferneyhough ()
 
 ## Research:
-Reference Collection
-_______
+Reference Collection:
+
 
 
 

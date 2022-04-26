@@ -4,12 +4,15 @@ tags:
 - week 1
 ---
 
-### Objective(s): 
-Reference collection and reading==**;**== Refinement of scope of project==**;**== Learn Dorico: music notation software==**;**==
+### Objectives: 
+- Reference collection and reading
+- Refinement of scope of project
+- Learn Dorico: music notation software**
+
 
 ## Research:
-Reference Collection
-________________
+Reference Collection:
+
 
 
 

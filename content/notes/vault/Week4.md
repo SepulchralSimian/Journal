@@ -4,12 +4,15 @@ tags:
 - week 4
 ---
 
-### Objective(s): 
-Reference collection and reading==**;**== Formatting for expository document==**;**== Written abstract for expository document==**;**== Read Brian Ferneyhough ()==**;==
+### Objectives: 
+- Reference collection and reading
+- Formatting for expository document
+- Written abstract for expository document
+- Read Brian Ferneyhough (
 
 ## Research:
-Reference Collection
-________________
+Reference Collection:
+
 
 
 

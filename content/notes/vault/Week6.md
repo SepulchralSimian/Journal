@@ -4,12 +4,12 @@ tags:
 - week 6
 ---
 
-### Objective(s): 
+### Objectives: 
 
 
 ## Research:
-Reference Collection
-________________
+Reference Collection:
+
 
 
 

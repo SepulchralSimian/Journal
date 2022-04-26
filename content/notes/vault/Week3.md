@@ -4,12 +4,16 @@ tags:
 - week 3
 ---
 
-### Objective(s): 
-Reference collection and reading==**;**== Website construction==**;**== Applications of extended techniques==**;**== Read Brian Ferneyhough ()==**;**==
+### Objectives: 
+- Reference collection and reading
+- Website construction
+- Applications of extended techniques
+- Read Brian Ferneyhough ()
+
 
 ## Research:
-Reference Collection
-________________
+Reference Collection:
+
 
 
 ### Reported Progress towards Project Completion:
