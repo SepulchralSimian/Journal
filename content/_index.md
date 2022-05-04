@@ -1,11 +1,12 @@
 ---
-title: Jazz and the New Complexity; A Theoretical Union
+title: New Jazz
 ---
 
-This site has been created to serve as a repository for all material relevant to my Junior Workshop Project. 
+*This site has been created to serve as a repository for all material relevant to my Junior Workshop Project.*
 
-## Paper PDF Download
-*To be updated upon completion of draft*
+My project is an attempt to create a new fusion genre by applying the principles of jazz theory to the genre of New Complexity. I have created a single composition based on these principles--the first composition of what we might call "new jazz complexity," or perhaps "jazz complexity." I prefer to call it, more simply, "new jazz." In order to understand the premise behind this fusion one has to also understand the theoretical principles that underwrite jazz.
+
+![complexity](notes/images/complexity.png) 
 
 ### Documentation
 
@@ -27,4 +28,4 @@ If you would prefer to navigate the contents of this site through an ordered lis
 
 
 
-![complexity](notes/images/complexity.png) 
+

@@ -7,21 +7,27 @@ tags:
 ### Objectives: 
 - Reference collection and reading
 - Refinement of scope of project
-- Learn Dorico: music notation software**
+- Learn Dorico: music notation software
 
 
 ## Research:
 
 _Reference Collection_
-References | Abstracts
+Reference Links | Abstracts
 ------------ | ------------
-a| a
-a| a
+a| 
+a| 
+a|
+a|
+a|
+a|
+a|
 
-##### 1. Refinement of Scope of Project: 
 
 
+#### 1. Refinement of Scope of Project: 
 
+#### 2. 
 
 
 ### Reported Progress towards Project Completion:
