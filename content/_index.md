@@ -3,11 +3,11 @@ title: New Jazz
 ---
 #### An Experimental School of Music 
 
-My project is to produce a new fusionary genre by applying the theoretical principles of jazz harmony to the school of New Complexity. I have created a single composition based on these principles. This site is a repository for all material relevant to this project. 
+My project is to produce a new fusionary genre by applying the theoretical principles of jazz harmony to the school of New Complexity. New Complexity identifies an avant-garde school of composers who, since the late 1970s, have produced compositions which, while often dissonant, abstract and atonal, require inventive methods of complex notation, often overwhelming to the eyes. By integrating the fundamental principles of jazz harmony into New Complexity, I have aimed to produce a novel fusion of the two seemingly disparate fields of music, and their respective theoretical frameworks. The elements involved in this project--my aims, intentions, and the central questions that propelled it--are detailed below. This site is a repository for all material relevant to this project. 
 
 ### [What is New Complexity?](/notes/vault/what-is-new-complexity?.md)
 
-### [What Does the Mind Have To Do With Music?](/notes/vault/what-is-jazz-harmony?.md)
+### [What does the Mind Have To Do With Music?](/notes/vault/what-is-jazz-harmony?.md)
 
 ### [What is Jazz Harmony?](/notes/vault/what-is-jazz-harmony?.md)
 
