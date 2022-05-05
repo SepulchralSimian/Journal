@@ -3,8 +3,7 @@ title: "What is New Complexity?"
 tags:
 - what is new complexity?
 ---
-
-![](X2Download.com%20-%20Genoi%20Hoios%20Essi%20(128%20kbps).mp3)
+![eg1](https://sepulchralsimian.github.io/quartz/content/notes/audio/eg1.mp3)
 
 A brief history of New Complexity must include the names Brian Ferneyhough, Michael Finnissy, Chris Dench, and Richard Barrett, each with their own sonic and philosophical worlds, and all of whom came together in the 1980s under the term "the New Complexity." New Complexity came to mean "a lotta notes." 
 
