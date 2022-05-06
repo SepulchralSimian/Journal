@@ -7,11 +7,9 @@
         "id": "e433d3c6da40b436",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "what-is-new-complexity?.md",
-            "mode": "source",
-            "source": false
+            "file": "Screen Shot 2022-04-25 at 10.22.34 PM.png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "what-is-new-complexity?.md",
+                "file": "Screen Shot 2022-04-25 at 10.22.34 PM.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +87,15 @@
   },
   "active": "e433d3c6da40b436",
   "lastOpenFiles": [
-    "what-is-new-complexity?.md",
     "Screen Shot 2022-04-25 at 10.22.34 PM.png",
-    "what-is-jazz-harmony?.md",
-    "what's-experimental-about-new-complexity?.md",
-    "whence-fusion?.md",
-    "references.md",
     "Pasted image 20220425221605.png",
-    "notes/images/time-and-motion-study.jpeg.md",
-    "maintenance.md",
-    "further-readings.md"
+    "Week1.md",
+    "Week2.md",
+    "Week4.md",
+    "Week5.md",
+    "Week6.md",
+    "Week7.md",
+    "what-is-jazz-harmony?.md",
+    "what's-experimental-about-new-complexity?.md"
   ]
 }
