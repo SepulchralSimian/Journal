@@ -7,9 +7,11 @@
         "id": "e433d3c6da40b436",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Screen Shot 2022-04-25 at 10.22.34 PM.png"
+            "file": "what-is-new-complexity?.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Screen Shot 2022-04-25 at 10.22.34 PM.png",
+                "file": "what-is-new-complexity?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +89,15 @@
   },
   "active": "e433d3c6da40b436",
   "lastOpenFiles": [
-    "Screen Shot 2022-04-25 at 10.22.34 PM.png",
-    "Pasted image 20220425221605.png",
-    "Week1.md",
-    "Week2.md",
-    "Week4.md",
-    "Week5.md",
-    "Week6.md",
-    "Week7.md",
+    "what-is-new-complexity?.md",
+    "what's-experimental-about-new-complexity?.md",
+    "notes/videos/ferneyhough.mp4.md",
+    "Ferneyhough.mp4",
     "what-is-jazz-harmony?.md",
-    "what's-experimental-about-new-complexity?.md"
+    "whence-fusion?.md",
+    "entries.md",
+    "further-readings.md",
+    "maintenance.md",
+    "Pasted image 20220425221605.png"
   ]
 }
