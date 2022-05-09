@@ -5,8 +5,6 @@ tags:
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LYMXbM0RCeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{{< youtube fQfENcC_rcg >}}
-
 A brief history of New Complexity must include the names Brian Ferneyhough, Michael Finnissy, Chris Dench, and Richard Barrett, each with their own sonic and philosophical worlds, and all of whom came together in the 1980s under the term "the New Complexity." New Complexity came to mean "a lotta notes." 
 
 ![score](https://sepulchralsimian.github.io/quartz/notes/images/score.jpeg)
