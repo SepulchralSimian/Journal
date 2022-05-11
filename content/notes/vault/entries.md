@@ -3,7 +3,7 @@ title: "Entries"
 tags:
 - entries
 ---
-**Entries:**
+
 
 o [Week 1: 2.28.22](/notes/vault/Week1.md)
 o [Week 2: 3.7.22](/notes/vault/Week2.md)
