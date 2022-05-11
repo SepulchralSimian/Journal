@@ -3,6 +3,8 @@ enableToc: true
 openToc: true
 enableLinkPreview: true
 enableLatex: true
+enableSPA: true
+enableContextualBacklinks: true
 description:
 page_title:
   "New Jazz"
