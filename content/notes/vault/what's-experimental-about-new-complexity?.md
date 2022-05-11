@@ -1,7 +1,7 @@
 ---
 title: "What's Experimental about New Complexity?"
 tags:
-- what's experimental about new complexity?
+- "what's experimental about new complexity?"
 ---
 
 Perhaps the leading "guru" of the New Complexity school is Brian Ferneyhough. Ferneyhough was born in 1943 in England and taught at various institutions in the United States until landing at Stanford University, where he is now Professor Emeritus. There exists an enormous amount of discussion around Ferneyhough's intense intellectualism: he has been called a "peculiarly mystifying verbalizer" with a "fearsome theoretical background." 

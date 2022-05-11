@@ -35,4 +35,4 @@ a|
 
 #### Additional Notes:
 
-*See [references](references.md) for an up to date list of consulted and cited sources*
+*See [references](/notes/vault/references.md) for an up to date list of consulted and cited sources*
