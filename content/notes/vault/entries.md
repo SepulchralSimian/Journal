@@ -18,7 +18,6 @@ o
 *Disclaimer:* The weeks of March 14 & 21 have been omitted on account of Spring Break 2022
 
 ![muse](https://sepulchralsimian.github.io/quartz/notes/images/muse.png)
-
 *Blue and Green Music*, 1919-1921
 
 
