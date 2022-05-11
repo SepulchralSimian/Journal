@@ -3,3 +3,9 @@ title: "Further Readings"
 tags:
 - readings
 ---
+
+Fitch, Lois. _Brian Ferneyhough_. Bristol: Intellect, 2014.
+Purchase Online: https://www.intellectbooks.com/brian-ferneyhough
+
+
+
