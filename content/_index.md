@@ -9,7 +9,7 @@ title: A New Jazz
 
 #### [What's Experimental about New Complexity?](/notes/vault/what's-experimental-about-new-complexity?.md)
 
-#### [What is Jazz Harmony?](/notes/vault/what-is-jazz-harmony?.md)
+[What is Jazz Harmony?](/notes/vault/what-is-jazz-harmony?.md)
 
 **Composition embed file to be uploaded here, once technical issues are resolved.**
 
