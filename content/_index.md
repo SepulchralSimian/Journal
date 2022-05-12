@@ -3,7 +3,7 @@ title: A New Jazz
 ---
 ### An Experimental School of Music 
 
-> My project is to produce a new fusionary genre by applying the theoretical principles of jazz harmony to the school of New Complexity. New Complexity identifies an avant-garde school of composers who, since the late 1970s, have produced compositions which, while often dissonant, abstract and atonal, require inventive methods of complex notation, often overwhelming to the eyes. By integrating the fundamental principles of jazz harmony into New Complexity, I have aimed to produce a novel fusion of the two seemingly disparate fields of music, and their respective theoretical frameworks. The elements involved in this project--my aims, intentions, and the central questions that propelled it--are detailed below. This site is a repository for all material relevant to this project. 
+> My project is to produce a new fusionary genre by applying the theoretical principles of jazz harmony to the school of New Complexity. New Complexity identifies an avant-garde school of composers who, since the late 1970s, have produced compositions which, while often dissonant, abstract and atonal, require inventive methods of complex notation, often overwhelming to the eyes. By integrating the fundamental principles of jazz harmony into New Complexity, I have aimed to produce a novel fusion of the two seemingly disparate fields of music, and their respective theoretical frameworks. The elements involved in this project--the central questions that propelled it--are detailed below. This site is a repository for all material relevant to this project. 
 
 #### [What is New Complexity?](/notes/vault/what-is-new-complexity.md)
 
@@ -30,6 +30,9 @@ If you would prefer to navigate the contents of this site through an ordered lis
 #### Misc. & Troubleshooting
 
 - [Scheduled Maintenance](/notes/vault/maintenance.md)
+
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-7f590013-5e1f-4235-ba18-242ef06f1c0d"></div>
 
 > __*For questions or matters relating to troubleshooting, shoot me an email:*__ [Email Sam](https://mail.google.com/mail/?view=cm&to=sammeltzerthometz@gmail.com)
 
