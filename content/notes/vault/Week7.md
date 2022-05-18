@@ -2,6 +2,7 @@
 title: "Week 7"
 tags:
 - week 7
+enableToc: true
 ---
 
 ### Objectives: 

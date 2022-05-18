@@ -2,6 +2,7 @@
 title: "References"
 tags:
 - references
+enableToc: false
 ---
 
 *Ader, L. (2020). Introduction to Microtonal Music. Microtonal Music in Central and Eastern Europe: Historical Outlines and Current Practices Avtorji Leon Stefanija (Ed) Univerza v Ljubljani, Filozofska Fakulteta Rūta Stanevičiūtė (Ed) Litovska Akademija Za Glasbo in Gledališče, Vilna, Litva. [https://doi.org/10.4312/9789610603122](https://doi.org/10.4312/9789610603122)

@@ -2,6 +2,7 @@
 title: "What is Jazz Harmony?"
 tags:
 - what is jazz harmony?
+enableToc: false
 ---
 
 *Before reading my brief summary of the fundamentals of Jazz Harmony, I have provided a video that I would recommend you watch until 10:35 as a primer:*

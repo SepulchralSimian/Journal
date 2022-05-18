@@ -2,6 +2,7 @@
 title: "Week 3"
 tags:
 - week 3
+enableToc: true
 ---
 
 ### Objectives: 

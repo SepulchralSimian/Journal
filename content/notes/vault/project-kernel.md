@@ -2,6 +2,7 @@
 title: "Project Kernel"
 tags:
 - project kernel
+enableToc: false
 ---
 
 #### Composition:

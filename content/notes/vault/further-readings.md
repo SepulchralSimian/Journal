@@ -2,6 +2,7 @@
 title: "Further Readings"
 tags:
 - readings
+enableToc: false
 ---
 
 Fitch, Lois. _Brian Ferneyhough_. Bristol: Intellect, 2014.
