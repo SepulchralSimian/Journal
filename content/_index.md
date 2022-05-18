@@ -33,7 +33,7 @@ If you would prefer to navigate the contents of this site through an ordered lis
 - [Scheduled Maintenance](/notes/vault/maintenance.md)
 
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-7f590013-5e1f-4235-ba18-242ef06f1c0d"></div>
+<div class="elfsight-app-3bb82b1e-8984-4f72-9a94-b0d13f1a6a0a"></div>
 
 > __*For questions or matters relating to troubleshooting, shoot me an email:*__ [Email Sam](https://mail.google.com/mail/?view=cm&to=sammeltzerthometz@gmail.com)
 
