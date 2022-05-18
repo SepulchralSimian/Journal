@@ -2,7 +2,7 @@ name: Samuel Meltzer Thometz
 enableToc: true
 openToc: true
 enableLinkPreview: true
-enableLatex: true
+enableLatex: false
 enableSPA: true
 enableContextualBacklinks: true
 description:

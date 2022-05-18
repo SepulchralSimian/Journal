@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "project-kernel.md",
+            "file": "whats-experimental-about-new-complexity.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project-kernel.md",
+                "file": "whats-experimental-about-new-complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "e433d3c6da40b436",
   "lastOpenFiles": [
+    "whats-experimental-about-new-complexity.md",
+    "what-is-jazz-harmony.md",
+    "what-is-new-complexity.md",
     "project-kernel.md",
-    "maintenance.md",
     "references.md",
+    "maintenance.md",
     "Week1.md",
     "Week2.md",
-    "whats-experimental-about-new-complexity.md",
     "entries.md",
-    "further-readings.md",
-    "what-is-new-complexity.md",
-    "what-is-jazz-harmony.md"
+    "further-readings.md"
   ]
 }
