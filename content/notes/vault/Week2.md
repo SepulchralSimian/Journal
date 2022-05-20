@@ -9,9 +9,10 @@ enableToc: true
 - Reference collection and reading 
 - Exploration of serialism (specifically twelve-tone technique)
 - Applications of tuning systems of equal temperament (i.e. microtonality)
+- 
 
-## Research:
-_Reference Collection_
+## Research Of The Week:
+_References Consulted_
 References | Abstracts
 ------------ | ------------
 a| a

@@ -5,7 +5,7 @@ tags:
 enableToc: true
 ---
 
-### Objectives: 
+# Objectives: 
 - Reference collection and reading
 - Refinement of scope of project
 - Learn Dorico: music notation software
@@ -31,9 +31,9 @@ a|
 #### 2. 
 
 
-### Reported Progress towards Project Completion:
+# Reported Progress towards Project Completion:
 
 
-#### Additional Notes:
+# Additional Notes:
 
 *See [references](/notes/vault/references.md) for an up to date list of consulted and cited sources*
