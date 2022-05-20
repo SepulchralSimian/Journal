@@ -2,7 +2,6 @@
 title: "Week 10"
 tags:
 - week 10
-enableToc: true
 ---
 
 ### Objectives: 

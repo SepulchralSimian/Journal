@@ -2,7 +2,6 @@
 title: "Week 8"
 tags:
 - week 8
-enableToc: true
 ---
 
 ### Objectives: 

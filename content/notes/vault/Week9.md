@@ -2,7 +2,6 @@
 title: "Week 9"
 tags:
 - week 9
-enableToc: true
 ---
 
 ### Objectives: 

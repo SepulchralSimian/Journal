@@ -2,7 +2,6 @@
 title: "Week 4"
 tags:
 - week 4
-enableToc: true
 ---
 
 ### Objectives: 
