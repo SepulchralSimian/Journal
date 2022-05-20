@@ -9,6 +9,7 @@ enableToc: true
 - Reference collection and reading
 - Refinement of scope of project
 - Learn Dorico: music notation software
+- 
 
 
 # Research:

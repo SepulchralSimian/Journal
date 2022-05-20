@@ -1,6 +1,6 @@
 name: Samuel Meltzer Thometz
 enableToc: true
-openToc: true
+openToc: false
 enableLinkPreview: true
 enableLatex: false
 enableSPA: true
