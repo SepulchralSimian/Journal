@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Week9.md",
+            "file": "jws-documents.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week9.md",
+                "file": "jws-documents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "e433d3c6da40b436",
   "lastOpenFiles": [
-    "Week9.md",
-    "Week10.md",
-    "Week8.md",
-    "Week7.md",
-    "Week6.md",
-    "Week5.md",
-    "Week4.md",
-    "Week3.md",
+    "jws-documents.md",
+    "maintenance.md",
+    "further-readings.md",
+    "entries.md",
+    "project-kernel.md",
     "Week1.md",
-    "Week2.md"
+    "references.md",
+    "Week2.md",
+    "what-is-jazz-harmony.md",
+    "what-is-new-complexity.md"
   ]
 }

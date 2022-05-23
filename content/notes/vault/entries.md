@@ -12,8 +12,11 @@ o
 o [Week 5: 4.11.22](/notes/vault/Week5.md)
 o [Week 6: 4.18.22](/notes/vault/Week6.md)
 o [Week 7: 4.25.22](/notes/vault/Week7.md)
-o [Week 8: 4.25.22](/notes/vault/Week8.md)
-o
+o [Week 8: 5.2.22](/notes/vault/Week8.md)
+o  
+o[Week 9: 5.9.22](/notes/vault/Week9.md)
+o[Week 10: 5.16.22](/notes/vault/Week10.md)
+o[Week 11: 5.23.22](/notes/vault/Week11.md)
 
 *Disclaimer:* The weeks of March 14 & 21 have been omitted on account of Spring Break 2022
 
