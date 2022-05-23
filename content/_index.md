@@ -19,6 +19,7 @@ title: A New Jazz
 ### Documentation
 
 [|Journal Entries](/notes/vault/entries.md)  
+[|JWS Documents](/notes/vault/jws-documents.md)  
 [|References](/notes/vault/references.md)  
 [|Further Readings](/notes/vault/further-readings.md)
 
