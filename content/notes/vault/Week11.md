@@ -5,7 +5,9 @@ tags:
 ---
 
 ### Objectives: 
-
+ - Reference collection and reading
+ - Website development
+ - Preview 
 
 ## Research:
 _Reference Collection_
@@ -13,10 +15,6 @@ References | Abstracts
 ------------ | ------------
 a| a
 a| a
-
-
-
-
 
 ### Reported Progress towards Project Completion:
 

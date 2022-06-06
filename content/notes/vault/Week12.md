@@ -1,13 +1,14 @@
 ---
-title: "Week 7"
+title: "Week 12"
 tags:
-- week 7
+- week 12
 ---
 
 ### Objectives: 
-- Reference collection and reading
 - Website development
-- Begin composition
+- Work on composition
+- Preview Harry Partch's _Genesis of a Music_
+- 
 
 ## Research:
 _Reference Collection_

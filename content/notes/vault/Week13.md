@@ -1,13 +1,15 @@
 ---
-title: "Week 7"
+title: "Week 13"
 tags:
-- week 7
+- week 13
 ---
 
 ### Objectives: 
-- Reference collection and reading
 - Website development
-- Begin composition
+- Work on composition
+- Troubleshoot issues regarding website's TOC generation
+- 
+
 
 ## Research:
 _Reference Collection_
@@ -15,13 +17,12 @@ References | Abstracts
 ------------ | ------------
 a| a
 a| a
-
-
-
-
+a| a
+a| a
+a| a
+a| a
 
 ### Reported Progress towards Project Completion:
-
 
 #### Additional Notes:
 
