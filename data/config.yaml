@@ -1,6 +1,6 @@
 name: Samuel Meltzer Thometz
 enableToc: true
-openToc: false
+openToc: true
 enableLinkPreview: true
 enableLatex: true
 enableSPA: true
@@ -9,6 +9,3 @@ description:
 page_title:
   "Towards A New Jazz"
 links:
-  - link_name: Master Document
-    link: https://docs.google.com/document/d/1DrWOULrlBXjfqpZs8FUXP09sKuykmAym-0Mx2UnZFoE/edit?usp=sharing
-
