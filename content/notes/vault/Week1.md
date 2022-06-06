@@ -8,7 +8,7 @@ tags:
 - Reference collection and reading
 - Refinement of scope of project
 - Learn Dorico: music notation software
-- 
+- Find a free open-source outlet to publish .md files online
 
 
 # Research:

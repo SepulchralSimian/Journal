@@ -6,6 +6,7 @@ tags:
 
 ### Objectives: 
 - Reference collection and reading
+- Website development
 - Formatting for expository document
 - Written abstract for expository document
 - Read Brian Ferneyhough ()

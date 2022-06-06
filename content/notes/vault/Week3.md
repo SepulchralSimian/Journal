@@ -6,7 +6,7 @@ tags:
 
 ### Objectives: 
 - Reference collection and reading
-- Website construction
+- Website development
 - Applications of extended techniques
 - Read Brian Ferneyhough ()
 

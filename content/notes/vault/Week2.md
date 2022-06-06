@@ -6,6 +6,7 @@ tags:
 
 ### Objectives: 
 - Reference collection and reading 
+- Website construction
 - Exploration of serialism (specifically twelve-tone technique)
 - Applications of tuning systems of equal temperament (i.e. microtonality)
 - 

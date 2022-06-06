@@ -5,7 +5,8 @@ tags:
 ---
 
 ### Objectives: 
-
+- Reference collection and reading
+- Resolve technical difficulties on website
 
 ## Research:
 _Reference Collection_
