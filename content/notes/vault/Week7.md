@@ -5,9 +5,7 @@ tags:
 ---
 
 ### Objectives: 
-- Reference collection and reading
-- Website development
-- Begin composition
+
 
 ## Research:
 _Reference Collection_

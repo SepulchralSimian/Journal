@@ -1,5 +1,5 @@
 ---
-title: Towards A New Jazz
+title: A New Jazz
 ---
 ## A Fusionary Genre of Music
 

@@ -8,8 +8,7 @@ tags:
 - Reference collection and reading
 - Refinement of scope of project
 - Learn Dorico: music notation software
-- Look for open-source outlets for publishing .md files online
-	- 
+- 
 
 
 # Research:
@@ -24,6 +23,8 @@ a|
 a|
 a|
 a|
+
+
 
 #### 1. Refinement of Scope of Project: 
 

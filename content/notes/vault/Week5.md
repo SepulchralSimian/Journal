@@ -7,8 +7,6 @@ tags:
 ### Objectives: 
 - Reference collection and reading
 - Read Brian Ferneyhough ()
-- Website development
-- 
 
 ## Research:
 _Reference Collection_

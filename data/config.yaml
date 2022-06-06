@@ -7,5 +7,13 @@ enableSPA: true
 enableContextualBacklinks: true
 description:
 page_title:
+<<<<<<< HEAD
   "Towards A New Jazz"
 links:
+=======
+  "New Jazz"
+links:
+  - link_name: Master Document
+    link: https://docs.google.com/document/d/1DrWOULrlBXjfqpZs8FUXP09sKuykmAym-0Mx2UnZFoE/edit?usp=sharing
+
+>>>>>>> parent of a1594d59 (changes to website title)
