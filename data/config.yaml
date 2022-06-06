@@ -6,20 +6,5 @@ enableLatex: true
 enableSPA: true
 enableContextualBacklinks: true
 description:
-page_title:
-<<<<<<< HEAD
-  "Towards A New Jazz"
-links:
-<<<<<<< HEAD
-=======
-  "New Jazz"
-links:
-  - link_name: Master Document
-    link: https://docs.google.com/document/d/1DrWOULrlBXjfqpZs8FUXP09sKuykmAym-0Mx2UnZFoE/edit?usp=sharing
-
->>>>>>> parent of a1594d59 (changes to website title)
-=======
-  - link_name: Master Document
-    link: https://docs.google.com/document/d/1DrWOULrlBXjfqpZs8FUXP09sKuykmAym-0Mx2UnZFoE/edit?usp=sharing
-
->>>>>>> parent of 14d849ec (changes to site's graph)
+page_title: "Towards A New Jazz"
+links: 
