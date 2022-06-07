@@ -4,7 +4,7 @@ tags:
 - entries
 ---
 
-||o [Week 1: 2.28.22](/notes/vault/Week1.md)
+o [Week 1: 2.28.22](/notes/vault/Week1.md)
 o [Week 2: 3.7.22](/notes/vault/Week2.md)
 o [Week 3: 3.28.22](/notes/vault/Week3.md)
 o [Week 4: 4.4.22](/notes/vault/Week4.md)
@@ -20,7 +20,7 @@ o[Week 11: 5.23.22](/notes/vault/Week11.md)
 o[Week 12: 5.30.22](/notes/vault/Week12.md)
 o  
 o[Week 13: 6.6.22](/notes/vault/Week13.md)
-o||
+o
 
 *Disclaimer:* The weeks of March 14 & 21 have been omitted on account of Spring Break 2022
 
