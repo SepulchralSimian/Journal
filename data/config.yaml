@@ -6,5 +6,6 @@ enableLatex: true
 enableSPA: true
 enableContextualBacklinks: true
 description:
-page_title: "Towards A New Jazz"
-links: 
+page_title: 
+  "Towards A New Jazz"
+links:
