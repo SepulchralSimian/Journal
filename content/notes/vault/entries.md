@@ -26,6 +26,6 @@ o
 
 ![muse](https://towardsanewjazz.com/notes/images/muse.png)
 
-*Blue and Green Music*, 1919-1921
+O’Keeffe, Georgia. *Blue and Green Music*, 1919-1921.
 
 

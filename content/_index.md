@@ -16,6 +16,8 @@ title: Towards a New Jazz
 
 ![complexity](notes/images/complexity.png)
 
+Redman, Will._Book_, 2006. 
+
 ### Documentation
 
 [|Journal Entries](/notes/vault/entries.md)  

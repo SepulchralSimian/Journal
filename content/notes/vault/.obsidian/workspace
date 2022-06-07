@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "entries.md",
+            "file": "further-readings.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "entries.md",
+                "file": "further-readings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "e433d3c6da40b436",
   "lastOpenFiles": [
-    "entries.md",
+    "further-readings.md",
     "jws-documents.md",
     "maintenance.md",
     "project-kernel.md",
     "references.md",
-    "Week1.md",
-    "further-readings.md",
-    "whats-experimental-about-new-complexity.md",
-    "what-is-new-complexity.md",
-    "what-is-jazz-harmony.md"
+    "Week11.md",
+    "Week12.md",
+    "Week13.md",
+    "what-is-jazz-harmony.md",
+    "whats-experimental-about-new-complexity.md"
   ]
 }
