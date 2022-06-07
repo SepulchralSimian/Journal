@@ -15,6 +15,7 @@ title: Towards a New Jazz
 **Composition embed file to be uploaded here, once technical issues are resolved.**
 
 ![complexity](notes/images/complexity.png)
+
 Redman, Will. _Book_, 2006. 
 
 ### Documentation
