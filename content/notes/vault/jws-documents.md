@@ -4,6 +4,11 @@ tags:
 - JWS documents
 ---
 ### Downloads: 
+_Discovery Narrative:_
+
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-1797c556-24f7-4aaa-b1fc-b08eb3746100"></div>
+
 _Current Inquiry Design Sheet:_
 
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
