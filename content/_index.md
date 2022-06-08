@@ -1,5 +1,5 @@
 ---
-title: Towards a New Jazz
+title:Towards a New Jazz
 enableToc: false
 ---
 
