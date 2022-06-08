@@ -19,6 +19,4 @@ Duncan, S. (2015, April 30). The concept of new complexity: Notation, interpreta
 
 In addition to continuing to review collected references, I delved more deeply into one particular reference: a dissertation written by a PhD student at Cornell University in 2015. This has proven to be very useful and will inform some of what I write about New Complexity. Duncan asks what really unifies the various composers that constitute the genre. He examines Roger Regate’s first published work, Genoi Hoios Essi for solo piano.
 
-# Additional Notes:
-
 *See [references](/notes/vault/references.md) for an up to date list of consulted and cited sources*

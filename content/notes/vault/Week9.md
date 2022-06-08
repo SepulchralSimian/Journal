@@ -16,6 +16,4 @@ a|
 ### Summative Narrative: 
 
 
-# Additional Notes:
-
 *See [references](/notes/vault/references.md) for an up to date list of consulted and cited sources*
