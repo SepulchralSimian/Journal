@@ -2,6 +2,7 @@
 title: "JWS Documents"
 tags:
 - JWS documents
+enableToc: false
 ---
 ### Downloads: 
 _Discovery Narrative:_

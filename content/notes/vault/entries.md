@@ -2,6 +2,7 @@
 title: "Entries"
 tags:
 - entries
+enableToc: false
 ---
 
 o [Week 1: 2.28.22](/notes/vault/Week1.md)
