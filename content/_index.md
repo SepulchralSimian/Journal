@@ -1,10 +1,9 @@
 ---
-title:Towards a New Jazz
+title: Towards a New Jazz
 enableToc: false
 ---
 
 ## A Fusionary Genre of Music
-
 **Abstract:**
 > My project is to produce a new fusionary genre by applying the theoretical principles of jazz harmony to the school of New Complexity. New Complexity identifies an avant-garde school of composers who, since the late 1970s, have produced compositions which, while often dissonant, abstract and atonal, require inventive methods of complex notation, often overwhelming to the eyes. Through this novel integration of two seemingly disparate fields of music, I hope to honor the tradition of jazz as a continually evolving art form, consistent in its retention of idiomatic properties, both theoretical and cultural, despite flux. Eventually actualized through the creation of an original composition as well as an accompanying expository document (both of which have proven to be beyond the scope of my JW project), the kernel of my project will be accessible [here](/notes/vault/project-kernel.md). This first phase of my project, contained herein, has been to lay the groundwork for this new genre, both presentationally and practically. This site features the guiding questions, background documents, relevant resources (both audio and textual), and experimental composition excerpts. This site is otherwise a repository for all material relevant to my project. 
 
@@ -14,6 +13,7 @@ enableToc: false
 
 #### [What is Jazz Harmony?](/notes/vault/what-is-jazz-harmony.md)
 
+---
 ![complexity](notes/images/complexity.png)
 
 Redman, Will. _Book_, 2006. 
