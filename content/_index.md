@@ -1,5 +1,6 @@
 ---
 title: Towards a New Jazz
+enableToc: false
 ---
 ## A Fusionary Genre of Music
 
