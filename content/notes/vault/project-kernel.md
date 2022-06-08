@@ -7,7 +7,8 @@ enableToc: false
 
 #### Composition:
 
-_Composition embed file to be uploaded here, once technical issues are resolved._
+_To be uploaded over the Summer of 2022_
 
 #### Expository Document PDF:
 
+_To be uploaded over the Summer of 2022_

@@ -17,4 +17,43 @@ _Herf, F., Maedel, R., & Hesse, H. (2020, May 29). Microtones. Retrieved March 4
 *Toop, R. (1988). Four Facets of The New Complexity. Contact: A Journal for Contemporary Music (1971-1990), (32). [https://doi.org/https://doi.org/10.25602/GOLD.cj.v0i32.1284](https://doi.org/https://doi.org/10.25602/GOLD.cj.v0i32.1284)**
 
 
-___To be continually appended...___
+Wikimedia Foundation. (2022, January 9). 72 equal temperament. Wikipedia. Retrieved June 3, 2022, from https://en.wikipedia.org/wiki/72_equal_temperament#Notation
+
+
+Wikimedia Foundation. (2022, February 20). Accidental (music). Wikipedia. Retrieved June 2, 2022, from https://en.wikipedia.org/wiki/Accidental_(music)#Microtonal_notation 
+
+
+Software. Software - Xenharmonic Wiki. (n.d.). Retrieved June 1, 2022, from https://en.xen.wiki/w/Software 
+
+
+James Tenney, "A History of 'Consonance' and 'Dissonance'," (Excelsior Music Company, 1998). [https://www.plainsound.org/pdfs/HCD.pdf](https://www.plainsound.org/pdfs/HCD.pdf)
+
+
+Ben Johnston, Maximum Clarity and Other Writings on Music (University of Illinois, 2006).
+
+
+Marc Sabat and Thomas Nicholson, "The Helmholtz-Ellis JI Pitch Notation," Plainsound Music Edition, 2020. [https://marsbat.space/pdfs/HEJI2_legend+series.pdf](https://marsbat.space/pdfs/HEJI2_legend+series.pdf)
+
+
+Thomas Nicholson and Marc Sabat, "Fundamental Principles of Just Intonation and Microtonal Composition," Universität der Künste Berlin, n.d. [https://marsbat.space/pdfs/JI.pdf](https://marsbat.space/pdfs/JI.pdf)
+
+
+Kyle Gann, The Arithmetic of Listening: Tuning Theory and History for the Impractical Musician (University of Illinois, 2019).
+
+
+Just intonation explained." (n.d.). Retrieved June 3, 2022, from https://www.kylegann.com/tuning.html
+
+
+Partch, Harry. _Genesis of a Music_. New York: Da Capo Pr, 1975.
+
+
+Hutchinson, Robert. Music theory for the 21st-century classroom. Accessed June 8, 2022. https://musictheory.pugetsound.edu/mt21c/MusicTheory.html.
+
+
+“Spectral Music.” Wikipedia. Wikimedia Foundation, April 17, 2022. https://en.wikipedia.org/wiki/Spectral_music.
+
+
+“Polyrhythm.” Wikipedia. Wikimedia Foundation, May 23, 2022. https://en.wikipedia.org/wiki/Polyrhythm.
+
+
+“Polytempo.” Wikipedia. Wikimedia Foundation, August 15, 2020. https://en.wikipedia.org/wiki/Polytempo.
