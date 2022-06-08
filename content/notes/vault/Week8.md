@@ -9,12 +9,13 @@ tags:
 - Website development
 
 # Research of the Week:
-_Reference Collection_
-Reference Links | Abstracts
+References Consulted and Added | 
 ------------ | ------------
-|
-
+a|
 # Reported Progress towards Project Completion:
+
+### Summative Narrative: 
+
 
 # Additional Notes:
 

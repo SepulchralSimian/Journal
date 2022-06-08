@@ -7,15 +7,16 @@ tags:
 # Objectives: 
 - Reference collection and reading
 - Website development
-- Read Brian Ferneyhough ()
+- Read Brian Ferneyhough (**Lois Fitch, Brian Ferneyhough (University of Chicago, 2013**)
 
 # Research of the Week:
-_Reference Collection_
-Reference Links | Abstracts
+References Consulted and Added | 
 ------------ | ------------
-|
-
+a|
 # Reported Progress towards Project Completion:
+### Summative Narrative: 
+
+This week I worked on a description of New Complexity and found images of New Complexity compositions. I ran into a lot of difficulty uploading images to the site, some came out distorted. Spent time trying to fix this.
 
 # Additional Notes:
 
