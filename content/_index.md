@@ -12,7 +12,6 @@ enableToc: false
 #### [What's Experimental about New Complexity?](/notes/vault/whats-experimental-about-new-complexity.md)
 
 #### [What is Jazz Harmony?](/notes/vault/what-is-jazz-harmony.md)
-
 ---
 ![complexity](notes/images/complexity.png)
 
