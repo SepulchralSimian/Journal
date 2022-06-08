@@ -17,7 +17,7 @@ Gann, Kyle. The Arithmetic of Listening: Tuning Theory and History for the Impra
 _Herf, F., Maedel, R., & Hesse, H. (2020, May 29). Microtones. Retrieved March 4, 2022, from [https://e-knjige.ff.uni-lj.si/znanstvena-zalozba/catalog/view/217/318/5175-1](https://e-knjige.ff.uni-lj.si/znanstvena-zalozba/catalog/view/217/318/5175-1)
 
 
-Hutchinson, Robert. Music theory for the 21st-century classroom. Accessed June 8, 2022. https://musictheory.pugetsound.edu/mt21c/MusicTheory.html.
+Hutchinson, Robert. Music theory for the 21st-century classroom. Accessed June 1, 2022. https://musictheory.pugetsound.edu/mt21c/MusicTheory.html.
 
 
 Johnston, Ben. Maximum Clarity and Other Writings on Music (University of Illinois, 2006).
