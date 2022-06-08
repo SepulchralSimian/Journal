@@ -2,7 +2,6 @@
 title: "Week 1"
 tags:
 - week 1
-enableToc: true
 ---
 
 # Objectives: 
@@ -12,28 +11,13 @@ enableToc: true
 - Find a free open-source outlet to publish .md files online
 
 
-# Research:
-
+# Research of the Week:
 _Reference Collection_
 Reference Links | Abstracts
 ------------ | ------------
-| 
-| 
 |
-|
-|
-|
-|
-
-
-
-#### 1. Refinement of Scope of Project: 
-
-#### 2. 
-
 
 # Reported Progress towards Project Completion:
-
 
 # Additional Notes:
 

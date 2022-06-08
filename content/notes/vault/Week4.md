@@ -4,7 +4,7 @@ tags:
 - week 4
 ---
 
-### Objectives: 
+# Objectives: 
 - Reference collection and reading
 - Website development
 - Formatting for expository document
@@ -12,20 +12,14 @@ tags:
 - Read Brian Ferneyhough ()
 - 
 
-## Research:
+# Research of the Week:
 _Reference Collection_
-References | Abstracts
+Reference Links | Abstracts
 ------------ | ------------
-a| a
-a| a
+|
 
+# Reported Progress towards Project Completion:
 
-
-
-
-### Reported Progress towards Project Completion:
-
-
-#### Additional Notes:
+# Additional Notes:
 
 *See [references](/notes/vault/references.md) for an up to date list of consulted and cited sources*

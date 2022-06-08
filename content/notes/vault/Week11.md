@@ -4,24 +4,18 @@ tags:
 - week 11
 ---
 
-### Objectives: 
+# Objectives: 
 - Reference collection and reading
 - Resolve technical difficulties on website
 
-## Research:
+# Research of the Week:
 _Reference Collection_
-References | Abstracts
+Reference Links | Abstracts
 ------------ | ------------
-a| a
-a| a
+|
 
+# Reported Progress towards Project Completion:
 
-
-
-
-### Reported Progress towards Project Completion:
-
-
-#### Additional Notes:
+# Additional Notes:
 
 *See [references](/notes/vault/references.md) for an up to date list of consulted and cited sources*
